@@ -1,0 +1,5 @@
+key: value
+key2: value2
+nested:
+  subkey1: 10
+  subkey2: 20
