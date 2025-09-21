@@ -1,5 +1,3 @@
-key: value
-key2: value2
-nested:
-  subkey1: 10
-  subkey2: 20
+ElasticNet:
+  alpha: 0.5
+  l1_ratio: 0.7
